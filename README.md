@@ -1,2 +1,2 @@
-# to-gow
+# to-grow
 .
